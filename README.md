@@ -1,0 +1,1 @@
+This is a quick and dirty proof-of-concept uniform grid implementation that passively eliminates collision duplicates with some clever entity reordering. It also guarantees no update duplicates. It's not highly optimized.
